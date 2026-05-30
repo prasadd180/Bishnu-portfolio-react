@@ -1,4 +1,4 @@
-# Amresh Bhuyan - Portfolio Website
+# Bishnu Prasad Brahma - Portfolio Website
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Live Website
-**URL:** [https://amresh.aediax.com](https://amresh.aediax.com)
+**URL:** [https://bishnu-portfolio.web.app/](https://bishnu-portfolio.web.app/)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
@@ -99,7 +99,7 @@ amresh-portfolio/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/amreshbhuyan/portfolio.git
+git clone https://github.com/prasadd180/Bishnu-portfolio-react.git
 cd portfolio
 ```
 
@@ -147,9 +147,9 @@ npm run deploy
 
 ### Meta Tags in `index.html`
 ```html
-<title>Amresh Bhuyan | Tech Entrepreneur | Founder & CEO of AediaX</title>
-<meta name="description" content="Amresh Bhuyan is a Tech Entrepreneur, Software Engineer, and Founder & CEO of AediaX Tech Private Limited." />
-<meta property="og:title" content="Amresh Bhuyan | Founder & CEO of AediaX" />
+<title>Bishnu Prasad | Frontend Developer |Software Engineer </title>
+<meta name="description" content="Bishnu Prasad  is a  Software Engineer, Expert in Full Stack Development. " />
+<meta property="og:title" content="Bishnu Prsad | Intern" />
 <meta property="og:url" content="https://amresh.aediax.com" />
 <meta property="og:image" content="https://amresh.aediax.com/og-image.png" />
 ```
@@ -203,19 +203,17 @@ npm run submit:sitemap
 
 ### Personal Links
 ```markdown
-- **Portfolio:** [https://amresh.aediax.com](https://amresh.aediax.com)
-- **Company:** [https://aediax.com](https://aediax.com)
-- **GitHub:** [https://github.com/amreshbhuyan](https://github.com/amreshbhuyan)
-- **LinkedIn:** [https://linkedin.com/in/amreshbhuyan](https://linkedin.com/in/amreshbhuyan)
-- **Email:** amreshbhuyanone@gmail.com
+- **Portfolio:** [https://bishnu-portfolio.web.app/](https://bishnu-portfolio.web.app/)
+- **GitHub:** [https://github.com/prasadd180](https://github.com/prasadd180)
+- **LinkedIn:** [https://www.linkedin.com/in/bishnu-prasad-brahma](https://www.linkedin.com/in/bishnu-prasad-brahma)
+- **Email:** bishnuprasadbrahm10a@gmail.com
 ```
 
 ### Project Links
 ```markdown
-- **SUIIT Library:** [https://library.suiit.ac.in](https://library.suiit.ac.in)
-- **Namami India:** [https://namamiindia.co.in](https://namamiindia.co.in)
-- **Flavr Apogi:** [https://flavrapogi.com](https://flavrapogi.com)
-- **Pragati Security:** [https://pragatisecurity.com](https://pragatisecurity.com)
+- **Currency Converter:** [https://prasadd180.github.io/currency-converter/](https://prasadd180.github.io/currency-converter/)
+- **Native Place Website:** [https://prasadd180.github.io/Native-place-website/](https://prasadd180.github.io/Native-place-website/)
+- **Bishnu Prasad Portfolio:** [https://bishnu-portfolio.web.app](https://bishnu-portfolio.web.app)
 ```
 
 ## 🛠️ Available Scripts
@@ -235,22 +233,22 @@ npm run submit:sitemap
 
 ## 📝 License
 
-This project is proprietary and owned by Amresh Bhuyan. All rights reserved.
+This project is proprietary and owned by Bishnu Prasad Brahma. All rights reserved.
 
 ## 🤝 Contact
 
 For any queries or collaborations:
 
 ```yaml
-Name: Amresh Bhuyan
+Name: Bishnu Prasad Brahma
 Role: Founder & CEO, AediaX Tech Private Limited
-Email: amreshbhuyanone@gmail.com
-Official: amreshbhuyan@aediax.com
-Phone: +91 78549 98757 (WhatsApp)
-Website: https://amresh.aediax.com
+Email: bishnuprasadbrahma0008@gmail.com
+Official: bishnuprasadbrahma10@gmail0.com
+Phone: +91 8926179541 (WhatsApp)
+Website: https://bishnu-portfolio.web.app
 ```
 
 ---
 
-*Last Updated: January 2024*  
+*Last Updated: May 2024*  
 *Built with ❤️ using React & Firebase*
