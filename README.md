@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Live Website
-**URL:** [/https://bishnu-portfolio.web.app](https://bishnu-portfolio.web.app/)
+**URL:** [https://bishnu-portfolio.web.app](https://bishnu-portfolio.web.app/)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
@@ -243,7 +243,7 @@ For any queries or collaborations:
 Name: Bishnu Prasad Brahma
 Role: Intern, AediaX Tech Private Limited
 Email: bishnuprasadbrahma0008@gmail.com
-Official: bishnuprasadbrahma10@gmail0.com
+Official: bishnuprasadbrahma10@gmail.com
 Phone: +91 8926179541 (WhatsApp)
 Website: https://bishnu-portfolio.web.app
 ```
