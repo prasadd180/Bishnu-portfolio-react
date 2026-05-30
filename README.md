@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Live Website
-**URL:** [https://bishnu-portfolio.web.app/](https://bishnu-portfolio.web.app/)
+**URL:** [/https://bishnu-portfolio.web.app](https://bishnu-portfolio.web.app/)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
@@ -36,7 +36,7 @@
 ```javascript
 {
   "hosting": "Firebase Hosting",
-  "domain": "amresh.aediax.com",
+  "domain": "bishnu-portfolio.web.app",
   "ssl": "Automatic by Firebase",
   "cdn": "Firebase CDN",
   "build-tool": "Create React App"
@@ -111,7 +111,7 @@ npm install
 ### 3. Set Up Environment Variables
 Create `.env` file:
 ```env
-REACT_APP_SITE_URL=https://amresh.aediax.com
+REACT_APP_SITE_URL=https://bishnu-portfolio.web.app
 REACT_APP_GA_MEASUREMENT_ID=G-XXXXXXXXXX
 ```
 
@@ -150,8 +150,8 @@ npm run deploy
 <title>Bishnu Prasad | Frontend Developer |Software Engineer </title>
 <meta name="description" content="Bishnu Prasad  is a  Software Engineer, Expert in Full Stack Development. " />
 <meta property="og:title" content="Bishnu Prsad | Intern" />
-<meta property="og:url" content="https://amresh.aediax.com" />
-<meta property="og:image" content="https://amresh.aediax.com/og-image.png" />
+<meta property="og:url" content="https://bishnu-portfolio.web.app" />
+
 ```
 
 ### XML Sitemap Generation
@@ -206,7 +206,7 @@ npm run submit:sitemap
 - **Portfolio:** [https://bishnu-portfolio.web.app/](https://bishnu-portfolio.web.app/)
 - **GitHub:** [https://github.com/prasadd180](https://github.com/prasadd180)
 - **LinkedIn:** [https://www.linkedin.com/in/bishnu-prasad-brahma](https://www.linkedin.com/in/bishnu-prasad-brahma)
-- **Email:** bishnuprasadbrahm10a@gmail.com
+- **Email:** bishnuprasadbrahm10@gmail.com
 ```
 
 ### Project Links
@@ -241,7 +241,7 @@ For any queries or collaborations:
 
 ```yaml
 Name: Bishnu Prasad Brahma
-Role: Founder & CEO, AediaX Tech Private Limited
+Role: Intern, AediaX Tech Private Limited
 Email: bishnuprasadbrahma0008@gmail.com
 Official: bishnuprasadbrahma10@gmail0.com
 Phone: +91 8926179541 (WhatsApp)
